@@ -1,11 +1,17 @@
-hello my frend
+hi my frend
 my name is maryam
 in developer 
 android
 maryam
 <<<<<<< HEAD
+<<<<<<< HEAD
 git intro
 =======
+this is temp branch
+this is second commit of temp branch
+>>>>>>> temp
+=======
+git intro
 this is temp branch
 this is second commit of temp branch
 >>>>>>> temp
