@@ -3,4 +3,9 @@ my name is maryam
 in developer 
 android
 maryam
+<<<<<<< HEAD
 git intro
+=======
+this is temp branch
+this is second commit of temp branch
+>>>>>>> temp
